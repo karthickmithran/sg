@@ -1,0 +1,32 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    line-height: 3;
+  }
+
+  h4{
+    color: red;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  #img1{
+width: 50px;
+height: 50px;
+  }
+
+  label{
+ background-color:blue;
+ color :aliceblue;
+  }
+
+  p{
+    font-size: 20px;
+    background-color: aqua;
+    color: blue;
+  }
+  
